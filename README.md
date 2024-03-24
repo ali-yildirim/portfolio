@@ -37,7 +37,7 @@
 
 <h2 align="left">Credentials & Certificates</h2>
 
-<a href="https://www.udemy.com/certificate/UC-8f44993b-62a1-4ab4-96af-646129414950/">Udemy - Machine Learning & Data Science Certificate<br></a>
+<a href="https://www.udemy.com/certificate/UC-8f44993b-62a1-4ab4-96af-646129414950/"><br>Udemy - Machine Learning & Data Science Certificate<br></a>
 
 <a href="https://www.cloudskillsboost.google/public_profiles/33aaa5e4-4765-48d0-97d8-d866b4faa9c5/badges/5160703">Google Cloud - Introduction to Data Analytics on Google Cloud<br></a>
 
