@@ -39,9 +39,9 @@
 
 <a href="https://www.cloudskillsboost.google/public_profiles/33aaa5e4-4765-48d0-97d8-d866b4faa9c5/badges/5160703">Google Cloud - Introduction to Data Analytics on Google Cloud<br></a>
 
-<a href="https://www.credly.com/users/ali-yildirim.7b3d6cc2">IBM Data Science Professional Certificate<br></a>
+<a href="https://www.credly.com/users/ali-yildirim.7b3d6cc2">Coursera - IBM Data Science Professional Certificate<br></a>
 
-<a href="https://verified.sertifier.com/en/verify/73250904282818/">BUYAK Data&Analytics Summit '23</a>
+<a href="https://verified.sertifier.com/en/verify/73250904282818/">Boğaziçi Üniversitesi Yöneylem Araştırma Kulübü - Data & Analytics Summit</a>
 
 
 
