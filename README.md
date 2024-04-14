@@ -37,7 +37,7 @@
 
 <a href="https://www.udemy.com/certificate/UC-8f44993b-62a1-4ab4-96af-646129414950/">Udemy - Machine Learning & Data Science Certificate<br></a>
 
-<a href="https://www.udemy.com/certificate/UC-8f44993b-62a1-4ab4-96af-646129414950/">Borusan Holding - Borusan Teknoloji Okulu<br></a>
+<a href="https://toptalent.co/businessschool/verify/8147BF8827-8147BF3815-812FABE391/">Borusan Holding - Borusan Teknoloji Okulu<br></a>
 
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_mZyj4xavCrPyxGdEY_1694898329218_completion_certificate.pdf">KPMG - Data Analytics</a>
 
