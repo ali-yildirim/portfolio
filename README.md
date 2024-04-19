@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>SQL Servers:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
+<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>Database Experience:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
