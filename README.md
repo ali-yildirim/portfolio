@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools. Down below are the languages and tools that I know:<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>Database Experience:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
+<p align="left">I'm a senior year industrial engineering student at Boğaziçi University. <br><br>I'm learning data science and machine learning tools.<br><br>Languages:<br><br>* Python<br>* SQL<br><br>Libraries:<br><br>* Numpy<br>* Pandas<br>* Matplotlib<br>* Seaborn<br>* Plotly<br>* Scikit-learn<br>* BeautifulSoup<br><br>Database Experience:<br><br>* Microsoft SQL Server<br>* Oracle Database<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
@@ -36,8 +36,6 @@
 <h2 align="left"><br>Credentials & Certificates</h2>
 
 <a href="https://www.udemy.com/certificate/UC-8f44993b-62a1-4ab4-96af-646129414950/">Udemy - Machine Learning & Data Science Certificate<br></a>
-
-<a href="https://toptalent.co/businessschool/verify/8147BF8827-8147BF3815-812FABE391/">Borusan Holding - Borusan Teknoloji Okulu<br></a>
 
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_mZyj4xavCrPyxGdEY_1694898329218_completion_certificate.pdf">KPMG - Data Analytics</a>
 
